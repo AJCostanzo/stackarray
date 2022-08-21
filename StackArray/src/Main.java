@@ -7,7 +7,7 @@ public class Main {
         this.length = length;
         this.topOfStack = topOfStack;
     }
-    public void push(int x) {
-        myStack[topOfStack++] = x;
+    public void push(int y) {
+        myStack[topOfStack++] = y;
     }
 }
