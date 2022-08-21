@@ -1,0 +1,2 @@
+# stackarray
+stack using array
